@@ -1,0 +1,8 @@
+faculty 
+ username = admin@21
+password=1821
+
+
+student 
+ login id pass depend on faculty input
+student id and password =dob upload by faculty option
